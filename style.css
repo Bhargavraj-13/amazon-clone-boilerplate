@@ -1,0 +1,37 @@
+.topmost{
+    position: relative;
+    top: -116vh;
+    height: 35px;
+    background-color: rgb(33, 33, 58);
+    color: white;
+}
+.bgi{
+    padding-top: 70px;
+}
+.c1{
+    color: aliceblue;
+    font-size: larger;
+    position: relative;
+    width: 1px;
+}
+.TVicon{
+    position: relative;
+    top: -65vh;
+    right: -115vh;
+}
+.c2{
+    position: relative;
+    top: -67vh;
+    right: -125vh;
+}
+.first4{
+    background-size: initial;
+    position: relative;
+    top: -95vh;
+    right: -20vh;
+}
+.sec4{
+    position: relative;
+    top: -130vh;
+    right: -60vh;
+}
